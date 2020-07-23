@@ -1,0 +1,25 @@
+{
+  "name": "caverta",
+  "version": "1.0.0",
+  "description": "this is clone website of caverta",
+  "main": "index.html",
+  "dependencies": {
+    "bootstrap": "^4.5.0",
+    "jquery": "^3.3.1",
+    "popper.js": "^1.12.9"
+  },
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sahilv10/resturant_clone.git"
+  },
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "author": "sahil verma",
+  "license": "ISC"
+}
